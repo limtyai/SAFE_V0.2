@@ -1,0 +1,5 @@
+{
+    "data_dir": "./data",
+    "result_dir": "./result",
+    "dataset_mode": "real"
+}
